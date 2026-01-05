@@ -1,0 +1,287 @@
+{
+  "search_metadata": {
+    "id": "695b168d529e4ba1f3a178b7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/594b3846d0523f80/695b168d529e4ba1f3a178b7.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/594b3846d0523f80/695b168d529e4ba1f3a178b7.json_with_pixel_position",
+    "created_at": "2026-01-05 01:40:29 UTC",
+    "processed_at": "2026-01-05 01:40:29 UTC",
+    "google_url": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&oq=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&hl=zh-cn&gl=cn&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/594b3846d0523f80/695b168d529e4ba1f3a178b7.html",
+    "total_time_taken": 1.38
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "冯诺依曼体系结构",
+    "google_domain": "google.com",
+    "hl": "zh-cn",
+    "gl": "cn",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "冯诺依曼体系结构",
+    "total_results": 743000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "冯·诺伊曼结构",
+    "entity_type": "kp3_verticals",
+    "kgmid": "/m/02fb6q",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02fb6q&hl=zh-Hans-CN&q=%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-Hans-CN&kgmid=%2Fm%2F02fb6q&q=%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84",
+    "description": "冯·诺伊曼结构，全称冯·诺依曼体系结构，也称冯·纽曼模型或普林斯顿结构，是一种将程序指令存储器和数据存储器合并在一起的电脑设计概念结构，由约翰·冯·诺伊曼等人提出。本词描述的是一种实现通用图灵机的计算���备，以及一种相对于并行计算的序列式结构参考模型。",
+    "description_highlighted_words": [
+
+    ],
+    "source": {
+      "name": " 维基百科",
+      "link": "https://zh.wikipedia.org/zh-cn/%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84"
+    }
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "冯·诺伊曼结构 - 维基百科",
+      "link": "https://zh.wikipedia.org/zh-cn/%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zh.wikipedia.org/zh-cn/%25E5%2586%25AF%25C2%25B7%25E8%25AF%25BA%25E4%25BC%258A%25E6%259B%25BC%25E7%25BB%2593%25E6%259E%2584&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECB0QAQ",
+      "displayed_link": "https://zh.wikipedia.org › zh-cn › 冯·诺伊曼结构",
+      "favicon": "https://serpapi.com/searches/695b168d529e4ba1f3a178b7/images/b7759f94161db2f3ac3573623779bab57bcd31d5feb322ef1fe012bc8abb1708.png",
+      "snippet": "冯·诺伊曼结构（英语：Von Neumann architecture），全称冯·诺依曼体系结构，也称冯·纽曼模型（Von Neumann model）或普林斯顿结构（Princeton architecture），是一种将程序指令存 ...",
+      "snippet_highlighted_words": [
+        "冯·诺伊曼结构"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "历史",
+            "link": "https://zh.wikipedia.org/zh-cn/%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84#%E6%AD%B7%E5%8F%B2"
+          },
+          {
+            "title": "第一次提出及实现",
+            "link": "https://zh.wikipedia.org/zh-cn/%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84#%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%8F%90%E5%87%BA%E5%8F%8A%E5%AF%A6%E4%BD%9C"
+          },
+          {
+            "title": "冯·诺伊曼瓶颈",
+            "link": "https://zh.wikipedia.org/zh-cn/%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84#%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%93%B6%E9%A0%B8"
+          },
+          {
+            "title": "参考文献",
+            "link": "https://zh.wikipedia.org/zh-cn/%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84#%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE"
+          }
+        ]
+      },
+      "source": "维基百科"
+    },
+    {
+      "position": 2,
+      "title": "三分钟带你了解冯.诺依曼结构",
+      "link": "https://zhuanlan.zhihu.com/p/136748306",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zhuanlan.zhihu.com/p/136748306&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECBkQAQ",
+      "displayed_link": "https://zhuanlan.zhihu.com › ...",
+      "favicon": "https://serpapi.com/searches/695b168d529e4ba1f3a178b7/images/b7759f94161db2f3ac3573623779bab5cb4614761e4cdc7a6dcdc8aea606fff4.png",
+      "snippet": "冯.诺依曼确定了”计算机结构“中的5大部件：. 运算器; 控制器; 存储器; 输入设备; 输出设备. 现在看来，运算器和控制器单元集成在CPU ...",
+      "snippet_highlighted_words": [
+        "运算器; 控制器; 存储器; 输入设备; 输出设备"
+      ],
+      "source": "知乎专栏"
+    },
+    {
+      "position": 3,
+      "title": "冯·诺依曼结构",
+      "link": "https://baike.baidu.com/item/%E5%86%AF%C2%B7%E8%AF%BA%E4%BE%9D%E6%9B%BC%E7%BB%93%E6%9E%84/9536784",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://baike.baidu.com/item/%25E5%2586%25AF%25C2%25B7%25E8%25AF%25BA%25E4%25BE%259D%25E6%259B%25BC%25E7%25BB%2593%25E6%259E%2584/9536784&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECBgQAQ",
+      "displayed_link": "https://baike.baidu.com › item › 冯·诺依曼结构",
+      "favicon": "https://serpapi.com/searches/695b168d529e4ba1f3a178b7/images/b7759f94161db2f3ac3573623779bab5895e7c8a337487e1879a0a2367d57028.png",
+      "snippet": "冯·诺依曼结构也称普林斯顿结构，是一种将程序指令存储器和数据存储器合并在一起的存储器结构。程序指令存储地址和���据存储地址指向同一个存储器的不同物理位置，因此程序 ...",
+      "snippet_highlighted_words": [
+        "冯",
+        "诺依曼结构",
+        "结构",
+        "结构"
+      ],
+      "source": "百度百科"
+    },
+    {
+      "position": 4,
+      "title": "01 | 冯·诺依曼体系结构：计算机组成的金字塔",
+      "link": "https://time.geekbang.org/column/article/91793",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://time.geekbang.org/column/article/91793&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECBcQAQ",
+      "displayed_link": "https://time.geekbang.org › column › article",
+      "favicon": "https://serpapi.com/searches/695b168d529e4ba1f3a178b7/images/b7759f94161db2f3ac3573623779bab56f2e541e4c6c29b2dc001a0b47a7475b.png",
+      "snippet": "冯·诺依曼体系结构是现代计算机硬件的基础架构，包括CPU、内存、I/O设备等关键组成部分。该体系结构的重要性在于统一了计算机的抽象概念，为软件开发提供了基础。",
+      "snippet_highlighted_words": [
+        "冯",
+        "诺依曼体系结构"
+      ],
+      "source": "极客时间"
+    },
+    {
+      "position": 5,
+      "title": "云计算与标签化冯诺依曼体系结构-资料下载",
+      "link": "https://www.ccf.org.cn/Activities/Training/ADL/Download/2016-12-14/555301.shtml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ccf.org.cn/Activities/Training/ADL/Download/2016-12-14/555301.shtml&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECBwQAQ",
+      "displayed_link": "https://www.ccf.org.cn › Training › ADL › Download",
+      "snippet": "受此启发，本报告提出标签化冯诺依曼体系结构LvNA（Labeled von Neumann Architecture），利用可编程的硬件标签将应用的QoS、安全等需求传递到底层硬件，使具备标签电路的硬件 ...",
+      "source": "CCF | 中国计算机学会"
+    },
+    {
+      "position": 6,
+      "title": "一套用了70 年的计算机架构—— 冯·诺依曼架构- 彭旭锐",
+      "link": "https://www.cnblogs.com/pengxurui/p/16870100.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnblogs.com/pengxurui/p/16870100.html&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECBoQAQ",
+      "displayed_link": "https://www.cnblogs.com › pengxurui",
+      "favicon": "https://serpapi.com/searches/695b168d529e4ba1f3a178b7/images/b7759f94161db2f3ac3573623779bab5b619ed78e655a50c351f43bb122bc75f.png",
+      "date": "2022年11月8日",
+      "snippet": "冯·诺依曼架构将通用计算机定义为以下3 个基本原则： 1、采用二进制： 指令和数据均采用二进制格式； 2、存储程序： 一个计算机程序，不可能只有一条指令，而是 ...",
+      "source": "博客园"
+    },
+    {
+      "position": 7,
+      "title": "冯·诺依曼架构&哈佛架构（嵌入式学习） 原创",
+      "link": "https://blog.csdn.net/m0_56694518/article/details/131506742",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.csdn.net/m0_56694518/article/details/131506742&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECCIQAQ",
+      "displayed_link": "https://blog.csdn.net › article › details",
+      "favicon": "https://serpapi.com/searches/695b168d529e4ba1f3a178b7/images/b7759f94161db2f3ac3573623779bab56f23232e7990e572bf91de8bba477f5a.png",
+      "date": "2023年7月2日",
+      "snippet": "冯·诺依曼架构：冯·诺依曼架构使用统一的存储器结构，即指令和数据共享同一存储器空间。指令和数据都存储在同一物理存储器中，使用统一的地址空间进行寻址。",
+      "snippet_highlighted_words": [
+        "冯",
+        "诺依曼",
+        "冯",
+        "诺依曼",
+        "结构"
+      ],
+      "source": "CSDN博客"
+    },
+    {
+      "position": 8,
+      "title": "1.冯诺依曼体系结构组成及其特点",
+      "link": "https://cloud.tencent.com/developer/article/2140031",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cloud.tencent.com/developer/article/2140031&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECDwQAQ",
+      "displayed_link": "https://cloud.tencent.com › developer › article",
+      "favicon": "https://serpapi.com/searches/695b168d529e4ba1f3a178b7/images/b7759f94161db2f3ac3573623779bab5685344c20fc9f07d3254c1ea35aba436.png",
+      "snippet": "冯诺依曼体系由运算器、控制器、存储器、输入输出设备构成，采用二进制，顺序执行指令。内存存取快但易失，外存容量大且持久，奠定现代计算机基础。",
+      "snippet_highlighted_words": [
+        "冯诺依曼体系"
+      ],
+      "source": "腾讯云"
+    },
+    {
+      "position": 9,
+      "title": "171860550 王一之冯诺依曼体系计算机存储器 ...",
+      "link": "https://ese.nju.edu.cn/_upload/article/files/31/8b/43a326bc4a92b1a05c049734c47f/8433429e-6c93-46f7-85c3-7ade5b424039.doc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ese.nju.edu.cn/_upload/article/files/31/8b/43a326bc4a92b1a05c049734c47f/8433429e-6c93-46f7-85c3-7ade5b424039.doc&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECD0QAQ",
+      "displayed_link": "https://ese.nju.edu.cn › _upload › article › files",
+      "favicon": "https://serpapi.com/searches/695b168d529e4ba1f3a178b7/images/b7759f94161db2f3ac3573623779bab5480ce6ddea830fedd3b06adee8cdf321.png",
+      "snippet": "冯·诺依曼体系结构冯·诺依曼理论的要点是：计算机的数制采用二进制；计算机应该按照程序顺序执行。 人们把冯·诺依曼的这个理论称为冯·诺依曼体系结构。",
+      "source": "南京大学"
+    },
+    {
+      "position": 10,
+      "title": "冯诺依曼结构：现代计算机的灵魂 - Around Physics 物理边界",
+      "link": "https://www.aroundphysics.com/von-neumann-architecture-review/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aroundphysics.com/von-neumann-architecture-review/&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQFnoECD8QAQ",
+      "displayed_link": "https://www.aroundphysics.com › von-neumann-archite...",
+      "favicon": "https://serpapi.com/searches/695b168d529e4ba1f3a178b7/images/b7759f94161db2f3ac3573623779bab5036c9da85d6309a58c58e14f125a9daa.png",
+      "date": "2023年4月1日",
+      "snippet": "冯诺依曼结构的主要特点是数据和指令存储在同一个内存单元中，减少了机器指令的数量的同时实现了可编程的计算机。 储存程式型电脑结构（冯诺伊曼结构）提出 ...",
+      "source": "aroundphysics.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "冯诺依曼结构和哈佛结构",
+      "link": "https://www.google.com/search?sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E7%BB%93%E6%9E%84%E5%92%8C%E5%93%88%E4%BD%9B%E7%BB%93%E6%9E%84&sa=X&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E7%BB%93%E6%9E%84%E5%92%8C%E5%93%88%E4%BD%9B%E7%BB%93%E6%9E%84"
+    },
+    {
+      "block_position": 1,
+      "query": "冯诺依曼瓶颈",
+      "link": "https://www.google.com/search?sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E7%93%B6%E9%A2%88&sa=X&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E7%93%B6%E9%A2%88"
+    },
+    {
+      "block_position": 1,
+      "query": "非冯诺依曼结构",
+      "link": "https://www.google.com/search?sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&q=%E9%9D%9E%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E7%BB%93%E6%9E%84&sa=X&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E9%9D%9E%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E7%BB%93%E6%9E%84"
+    },
+    {
+      "block_position": 1,
+      "query": "冯诺依曼架构图",
+      "link": "https://www.google.com/search?sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E6%9E%B6%E6%9E%84%E5%9B%BE&sa=X&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E6%9E%B6%E6%9E%84%E5%9B%BE"
+    },
+    {
+      "block_position": 1,
+      "query": "冯诺依曼探测器",
+      "link": "https://www.google.com/search?sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E6%8E%A2%E6%B5%8B%E5%99%A8&sa=X&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E6%8E%A2%E6%B5%8B%E5%99%A8"
+    },
+    {
+      "block_position": 1,
+      "query": "冯诺依曼计算机体系",
+      "link": "https://www.google.com/search?sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB&sa=X&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB"
+    },
+    {
+      "block_position": 1,
+      "query": "冯诺依曼计算机之父",
+      "link": "https://www.google.com/search?sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B9%8B%E7%88%B6&sa=X&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B9%8B%E7%88%B6"
+    },
+    {
+      "block_position": 1,
+      "query": "哈佛架构",
+      "link": "https://www.google.com/search?sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&q=%E5%93%88%E4%BD%9B%E6%9E%B6%E6%9E%84&sa=X&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%93%88%E4%BD%9B%E6%9E%B6%E6%9E%84"
+    }
+  ],
+  "dmca_messages": {
+    "title": "关于过滤结果的声明",
+    "messages": [
+      {
+        "content": "部分结果可能已依照欧洲的数据保护法被移除。了解详情",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/policies/faq",
+            "text": "了解详情"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=10&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8NMDegQIDhAY",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=10&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8tMDegQIDhAG",
+      "3": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=20&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8tMDegQIDhAI",
+      "4": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=30&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8tMDegQIDhAK",
+      "5": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=40&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8tMDegQIDhAM",
+      "6": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=50&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8tMDegQIDhAO",
+      "7": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=60&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8tMDegQIDhAQ",
+      "8": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=70&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8tMDegQIDhAS",
+      "9": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=80&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8tMDegQIDhAU",
+      "10": "https://www.google.com/search?q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&sca_esv=75d7ba9b8a0ac0c1&hl=zh-cn&gl=cn&ei=jhZbac_XCvmGkdUPv_24iQc&start=90&sa=N&sstk=Af77f_cfY5el8OY5tL0KXI8z9lHajVdbaCTxywa1WWSFHIbbrA2rVSpu_nnTNnoyb4_QE_zzmWWsQTLINrThx9EoORwq4HKk4rm3CA&ved=2ahUKEwjP1qunovORAxV5Q6QEHb8-LnEQ8tMDegQIDhAW"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=cn&google_domain=google.com&hl=zh-cn&q=%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84&start=90"
+    }
+  }
+}
